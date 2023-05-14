@@ -3,7 +3,7 @@
          height="59"
          width="45" /> I'm Sunny Kumar </h1>
 
-### About Me 👧🏻 :
+### About Me 🏻🙋‍♂️:
 - 🧑‍💻  Pronouns: He/His
 - 💼 I’m currently working as a Software Developer at OctaNet.
 - 🎒 I've done almost 6-7 internships in frontend primarily.
