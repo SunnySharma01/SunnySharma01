@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hola, <img src="https://iconscout.com/lottie/waving-hand-7901926" 
          alt="Waving hand animated gif"
          height="59"
          width="45" /> I'm Sunny Kumar </h1>
