@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, <img src="https://media3.giphy.com/media/c1CLe6VoaMviQz0s6z/giphy.gif"
 	alt="Waving hand animated gif"
-         height="59"
+         height="20"
          width="45" /> I'm Sunny Kumar </h1>
 
 ### About Me🙋‍♂️:
