@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, <img src="https://media.tenor.com/A7eequnhcGwAAAAS/hand.gif"
 	alt="Waving hand animated gif"
-         height="20"
+         height="40"
          width="45" /> I'm Sunny Kumar </h1>
 
 ### About Me🙋‍♂️:
