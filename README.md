@@ -1,5 +1,5 @@
-<h1 align="center"> Hola, <img src="https://iconscout.com/lottie/waving-hand-7901926" 
-         alt="Waving hand animated gif"
+<h1 align="center"> Hola, <img src="https://media3.giphy.com/media/c1CLe6VoaMviQz0s6z/giphy.gif"
+	alt="Waving hand animated gif"
          height="59"
          width="45" /> I'm Sunny Kumar </h1>
 
