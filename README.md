@@ -5,7 +5,7 @@
 
 ### About Me🙋‍♂️:
 - 🧑‍💻  Pronouns: He/His
-- 💼 I’m currently working as a Software Developer at OctaNet.
+- 💼 I’m currently working as a Software Developer at Acciojob.
 - 🎒 I've done almost 6-7 internships in frontend primarily.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
