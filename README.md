@@ -14,6 +14,6 @@
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/SunnySharma01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sunny-kumar-sharma-12045523a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="linkedin.com/in/sunny-kumar-3138b6292/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/sunny_sharma_20/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
